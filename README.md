@@ -7,6 +7,7 @@ Welcome to the project layout guide. You can use the quick navigation links belo
 * [Go to Installation Instructions](#installation-instructions)
 * [Go to Frequently Asked Questions](#frequently-asked-questions)
 * [Go to Special Styling Tricks](#special-styling-tricks)
+* [Go to Other](#other)
 
 ### Installation Instructions
 
@@ -36,3 +37,8 @@ You can change how letters look inside this file using different methods: 
 * Monospace letters use backticks.
 
 [Back to top](#project-documentation)
+
+
+
+
+# Other
