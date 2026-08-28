@@ -1,3 +1,33 @@
 # student-opportunity-finder
-hi there
-# bold text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hi there! To find opportunities, click the link below
+
+[Go to student](# student-opportunity-finder)
