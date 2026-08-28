@@ -1,3 +1,3 @@
 # student-opportunity-finder
 hi there
-#bold text
+# bold text
